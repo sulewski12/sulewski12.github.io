@@ -13,7 +13,7 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 - Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
 - Member of SAS Hackathon 2025 team working on automation of incident classification on Belgian railway.
 
-### Mathematics tutor @ Szkoła Matematyki 2+2, Wrocław _(October 2020 - February 2023)_
+### Mathematics Tutor @ Szkoła Matematyki 2+2, Wrocław _(October 2020 - February 2023)_
 - Conducting preparatory classes for A-Level Math Exams and IMO.
 - Designed customized lesson plans and problem sets tailored to individual learning needs.
 
