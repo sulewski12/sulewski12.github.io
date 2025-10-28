@@ -1,75 +1,32 @@
-# 👩‍💻 YOUR NAME - Data Science Portfolio
+# Paweł Sulewski
 
-Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
+## About Me
+I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager to apply analytical and problem-solving skills to real-world challenges.
 
----
+## Skills
+- **Languages:** Python, R, SAS, MATLAB
+- **Frameworks & Tools:** SQL, Tensorflow, Power BI, LangChain, Google ADK
 
-## 🧠 Skills & Technologies
+## Experience
 
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker, AWS (S3, EC2)
-- **Concepts**: Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
+### Data Scientist Intern @ SAS, Tervuren _(April 2025 - October 2025)_
+- Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
+- Member of SAS Hackathon 2025 team working on automation of incident classification on Belgian railway.
 
----
+### Mathematics tutor @ Szkoła Matematyki 2+2, Wrocław _(October 2020 - February 2023)_
+- Conducting preparatory classes for A-Level Math Exams and IMO.
+- Designed customized lesson plans and problem sets tailored to individual learning needs.
 
-## 📁 Projects
+## Education
+- **MSc Mathematics**, KU Leuven _(2023 - 2025)_
+- **BSc Mathematics**, University of Wrocław _(2020 - 2023)_
 
-### 1. 📊 Customer Churn Prediction
-**Goal**: Identify customers likely to churn for a telecom company.  
-**Tech Stack**: Python, Scikit-learn, Logistic Regression, Random Forest  
-- Cleaned and explored 6K+ customer records
-- Trained multiple ML models with GridSearchCV
-- Achieved **89% accuracy** with optimized random forest
-- Deployed using Streamlit for demo purposes  
-[🔗 View Project](https://github.com/priyamehta/churn-prediction)
+## Projects & Contributions
+- Infrabot.
+- TrackGPT (SAS Hackathon 2025).
+- Fake news detector.
 
----
+## Contact
+📧 sulewski12@gmail.com | 📍 Brussels, Belgium
 
-### 2. 🧾 Retail Sales Forecasting
-**Goal**: Forecast future sales using time series data from a chain of stores.  
-**Tech Stack**: Python, ARIMA, Facebook Prophet  
-- Implemented time series models with proper decomposition
-- Compared Prophet vs. ARIMA performance
-- Improved forecast accuracy by 15% using seasonal tuning  
-[🔗 View Project](https://github.com/priyamehta/retail-sales-forecasting)
-
----
-
-### 3. 💬 Sentiment Analysis on Product Reviews
-**Goal**: Classify customer reviews as positive, negative, or neutral using NLP.  
-**Tech Stack**: Python, NLTK, TF-IDF, XGBoost  
-- Preprocessed 50K+ product reviews
-- Built text classification models using pipeline
-- Achieved **92% F1-score** on test data  
-[🔗 View Project](https://github.com/priyamehta/sentiment-analysis-nlp)
-
----
-
-### 4. 📈 Airbnb Data Dashboard (Tableau)
-**Goal**: Create an interactive dashboard to explore Airbnb trends in NYC.  
-**Tech Stack**: Tableau  
-- Built dynamic visuals on pricing, availability & neighborhoods  
-[🔗 View Dashboard](https://public.tableau.com/app/profile/priyamehta/)
-
----
-
-## 🏅 Certifications
-
-- IBM Data Science Professional Certificate (Coursera)
-- Google Advanced Data Analytics Certificate
-- Tableau Data Visualization Specialist
-
----
-
-## 📬 Let's Connect!
-
-- 📧 Email: priyamehta.ds@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/priyamehta-ds)  
-- 📂 [Portfolio Website](https://priyamehta.dev)  
-- 🐙 [GitHub](https://github.com/priyamehta)
-
----
-
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+*This portfolio is hosted on GitHub Pages. Feel free to explore my projects and connect!*
