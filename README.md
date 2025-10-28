@@ -22,9 +22,9 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 - **BSc Mathematics**, University of Wrocław _(2020 - 2023)_
 
 ## Projects & Contributions
-- Infrabot.
+- Infrabot. [Check Project](https://github.com/sulewski12/infrabot)
 - TrackGPT (SAS Hackathon 2025).
-- Fake news detector.
+- Fake news detector. [Check Project](https://github.com/sulewski12/fakenews-detector)
 
 ## Contact
 📧 sulewski12@gmail.com | 📍 Brussels, Belgium
