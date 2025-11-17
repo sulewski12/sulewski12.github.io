@@ -4,8 +4,8 @@
 I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager to apply analytical and problem-solving skills to real-world challenges.
 
 ## Skills
-- **Languages:** Python, R, SAS, MATLAB
-- **Frameworks & Tools:** SQL, Tensorflow, Power BI, LangChain, Google ADK
+- **Languages:** Python, R, MATLAB
+- **Frameworks & Tools:** SQL, Tensorflow, Azure, Power BI, LangChain, Google ADK
 
 ## Experience
 
