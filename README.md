@@ -9,7 +9,7 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 
 ## Experience
 
-### Data Scientist Intern @ SAS, Tervuren _(April 2025 - October 2025)_
+### Data Scientist Intern @ SAS, Tervuren _(April 2025 - September 2025)_
 - Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
 - Member of SAS Hackathon 2025 team working on automation of incident classification on Belgian railway.
 
