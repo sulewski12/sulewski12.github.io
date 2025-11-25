@@ -5,11 +5,11 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 
 ## Skills
 - **Languages:** Python, R, MATLAB
-- **Frameworks & Tools:** SQL, Tensorflow, Azure, Power BI, LangChain, Google ADK
+- **Frameworks & Tools:** SQL, Tensorflow, Azure, Power BI, Databricks, LangChain, Google ADK
 
 ## Experience
 
-### Data Scientist Intern @ SAS, Tervuren _(April 2025 - September 2025)_
+### Data Scientist @ SAS, Tervuren _(January 2025 - )_
 - Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
 - Member of SAS Hackathon 2025 team working on automation of incident classification on Belgian railway.
 
