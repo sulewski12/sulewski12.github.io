@@ -5,11 +5,12 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 
 ## Skills
 - **Languages:** Python, R, MATLAB
-- **Frameworks & Tools:** SQL, Tensorflow, Azure, Power BI, Databricks, LangChain, Google ADK
+- **Frameworks & Tools:** SQL, SAS, Tensorflow, Azure, Power BI, Databricks, LangChain, Google ADK
 
 ## Experience
 
 ### Data Scientist @ SAS, Tervuren _(January 2025 - )_
+- Guidance and support for customers by analyzing their needs, recommending appropriate SAS solutions, and ensuring successful adoption and effective use of the software.
 - Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
 - Member of SAS Hackathon 2025 team working on automation of incident classification on Belgian railway.
 
@@ -23,7 +24,8 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 
 ## Projects & Contributions
 - Infrabot. [Check Project](https://github.com/sulewski12/infrabot)
-- TrackGPT (SAS Hackathon 2025).
+- TrackGPT (SAS Hackathon 2025)
+- Databricks ETL <span style="color: orange;">This text is orange.</span>
 - Fake news detector. [Check Project](https://github.com/sulewski12/fakenews-detector)
 
 ## Contact
