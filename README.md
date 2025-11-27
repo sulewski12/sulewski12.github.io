@@ -25,7 +25,7 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 ## Projects & Contributions
 - Infrabot. [Check Project](https://github.com/sulewski12/infrabot)
 - TrackGPT (SAS Hackathon 2025)
-- Databricks ETL <span style="color: orange;">This text is orange.</span>
+- Databricks ETL **<span style="color: orange;">Pending</span>**
 - Fake news detector. [Check Project](https://github.com/sulewski12/fakenews-detector)
 
 ## Contact
