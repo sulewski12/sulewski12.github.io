@@ -9,7 +9,7 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 
 ## Experience
 
-### Data Scientist @ SAS, Tervuren _(January 2025 - )_
+### Data Scientist @ SAS, Tervuren _(April 2025 - November 2025)_
 - Guidance and support for customers by analyzing their needs, recommending appropriate SAS solutions, and ensuring successful adoption and effective use of the software.
 - Developed end-to-end Infrabot PoC for the customer, which resulted in customer's registration for Hackathon 2025 organised by SAS.
 - Facilitator of SAS Hackathon 2025 team working on automation of incident reports on Belgian railway.
