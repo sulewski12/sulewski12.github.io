@@ -25,7 +25,7 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 ## Projects & Contributions
 - Infrabot. [Check Project](https://github.com/sulewski12/infrabot)
 - [TrackGPT](https://communities.sas.com/t5/SAS-Hacker-s-Hub/Text-Mining-amp-Agentic-AI-on-Railway-Incident-Reports/ta-p/974242) (SAS Hackathon 2025)
-- MLOps Regression ETE **<span style="color: orange;">Pending</span>**
+- MLOps Regression ETE [Check Project](https://github.com/sulewski12/ml_ops_reg)
 - Fake News Detector. [Check Project](https://github.com/sulewski12/fakenews-detector)
 
 ## Contact
