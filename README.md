@@ -29,6 +29,6 @@ I am a young, aspiring data enthusiast and recent MSc Mathematics graduate eager
 - Fake News Detector. [Check Project](https://github.com/sulewski12/fakenews-detector)
 
 ## Contact
-📧 sulewski12@gmail.com | 📍 Brussels, Belgium
+📧 sulewski12@gmail.com | 📍 Warsaw, Poland
 
 *This portfolio is hosted on GitHub Pages. Feel free to explore my projects and connect!*
