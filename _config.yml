@@ -1,5 +1,8 @@
 title: Paweł Sulewski
 logo: photo_cropped.jpg
-#description: text below image
+description: |
+  <a href="https://medium.com/@sulewski12" target="_blank">
+    ✍️ Visit my Medium
+  </a>
 show_downloads: false
 theme: jekyll-theme-minimal
